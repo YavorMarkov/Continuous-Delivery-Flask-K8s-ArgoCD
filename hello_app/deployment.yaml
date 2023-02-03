@@ -20,6 +20,6 @@ spec:
       - name: regcred
       containers:
       - name: hello-deployment
-        image: 34535/hello-app:v1
+        image: 34535/hello-app:v2
         imagePullPolicy: Always
 
